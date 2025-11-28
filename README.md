@@ -21,7 +21,6 @@
 ## 🛠 Технології
 
 - **Frontend:** React, Next.js (App Router), TailwindCSS, ShadCN UI
-- **Backend:** Node.js / Nest.js (для обробки логіки рівнів та AI)
 - **AI:** Gemini API для генерації рівнів
 - **Бібліотеки:** tw-animate-css, lucide-react для анімацій та іконок
 
